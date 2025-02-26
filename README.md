@@ -1,14 +1,20 @@
-<h1>Коротко о проекте</h1>
+<h1>Brief Overview of the Project</h1>
 <ul>
-  <li>Этот проект я делал специально для отбора на стажировку в тинькофф</li>
-  <li>Это поисковик с музыкой, которую он берёт со spotify API. И в котором нет плейлистов, вместо них здесь теги</li>
-  <li>Написан он на react + ts и для сборки использовался vite</li>
-  <li>По времени он занял 10 дней</li>
-  <li>Ссылка на документ с видео(обзор проекта) - https://drive.google.com/file/d/13IHLT8evEsFBSpNFHbE_yhfMknqSBlkX/view?usp=sharing</li>
-  <li>
-    К сожалению spotify добавили ограничение на возможность запрашивать треки. Их могут запрашивать только те, кого я указал как разработчиков в своём кабинете spitify for developers.
-    Поэтому если вам потребуется протестировать мой проект, то, увы, вам потребуется со мной связаться, что бы я смог добавить ваc как разработчика.
-    Телеграм для связи - @Robshakk.
+  <li>This project was created specifically for the selection process for an internship at Tinkoff.</li>
+  <li>It is a music search engine that fetches tracks from the Spotify API. Instead of playlists, it uses tags.</li>
+  <li>It is built with React and TypeScript, using Vite for bundling.</li>
+  <li>The development took 10 days.</li>
+  <li>Link to the document with a video overview of the project - 
+    <a href="https://drive.google.com/file/d/13IHLT8evEsFBSpNFHbE_yhfMknqSBlkX/view?usp=sharing" target="_blank">
+      View the video</a>.
   </li>
-  <li>Ссылка на online версию сайта - https://silver-bonbon-26555e.netlify.app/</li>
+  <li>
+    Unfortunately, Spotify has introduced a restriction that allows only developers listed in my Spotify for Developers account to request tracks.
+    Therefore, if you need to test my project, you will need to contact me so I can add you as a developer.
+    Telegram for contact - @Robshakk.
+  </li>
+  <li>Link to the online version of the website - 
+    <a href="https://silver-bonbon-26555e.netlify.app/" target="_blank">
+      Try it online</a>.
+  </li>
 </ul>
