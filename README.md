@@ -5,7 +5,7 @@
   <li>It is built with React and TypeScript, using Vite for bundling.</li>
   <li>The development took 10 days.</li>
   <li>Link to the document with a video overview of the project - 
-    <a href="https://drive.google.com/file/d/13IHLT8evEsFBSpNFHbE_yhfMknqSBlkX/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1wM39f8O6FHhI2ciEqZ89NYfbRj20aTUy/view?usp=drive_link" target="_blank">
       View the video</a>.
   </li>
 </ul>
